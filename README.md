@@ -1,3 +1,7 @@
+*Please check Tags for most recent release, release below is currently outdated and so are all related instructions!*
+
+
+
 # CFA-44 Nosferatu V0.5.2
 
 This repository provides the Nuclear Option CFA-44 Nosferatu V0.5.2 files.
@@ -23,4 +27,7 @@ BepInEx/plugins/
       └─ CFA-44/
 ```
 
-`CFA44Animations` contains the two animation libraries. `com.nikkorap.blueprinter/addons/CFA-44` contains the V0.5.2 Blueprinter aircraft package.
+`CFA44Animations` contains the two animation libraries. `com.nikkorap.blueprinter/addons/CFA-44` contains the V0.5.2 Blueprinter aircraft package. 
+
+As of 11/12/2026 most recent CFA-44 Nosferatu for Nuclear Option release.
+Copyright Disclaimer: All rights to their respective intellectual properties, trademarks, and copyrighted materials belong to Bandai Namco Entertainment, Project Aces, and their respective copyright holders. I claim no ownership of any third-party assets or intellectual property used in this project.
